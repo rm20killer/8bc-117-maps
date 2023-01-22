@@ -1,5 +1,6 @@
 # 8bc-117-maps
  
+ Made using [papyri](https://github.com/jason-green-io/papyri)
 ## How to use
 You need python3 installed
 
